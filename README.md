@@ -2,7 +2,7 @@
 
 ![Agile Sprint Performance Dashboard](productivity.PNG)
 
-## **📌 Descripción del proyecto**
+## **Descripción del proyecto**
 
 Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI enfocado en el análisis del desempeño de un equipo de desarrollo bajo metodología Agile (Scrum).
 
@@ -10,7 +10,7 @@ El objetivo es transformar datos operativos de sprints en información estratég
 
 El dataset utilizado simula más de 1.000 registros de tareas distribuidas en múltiples sprints, replicando un entorno real de trabajo en desarrollo de software.
 
-🎯 Objetivo del análisis
+## **Objetivo del análisis**
 
 En equipos de desarrollo es común enfrentar desafíos como:
 
@@ -26,19 +26,19 @@ Disminución progresiva de la eficiencia del equipo
 
 Este dashboard permite:
 
-✔ Analizar la velocidad de entrega por sprint
+° Analizar la velocidad de entrega por sprint
 
-✔ Identificar acumulación de deuda técnica
+° Identificar acumulación de deuda técnica
 
-✔ Comparar horas estimadas vs horas reales
+° Comparar horas estimadas vs horas reales
 
-✔ Evaluar desempeño por miembro del equipo
+° Evaluar desempeño por miembro del equipo
 
-✔ Detectar tareas que superan el presupuesto de tiempo
+° Detectar tareas que superan el presupuesto de tiempo
 
-✔ Apoyar la toma de decisiones basada en datos
+° Apoyar la toma de decisiones basada en datos
 
-📈 Métricas desarrolladas
+## **Métricas desarrolladas**
 
 Total de tareas
 
@@ -54,16 +54,3 @@ Análisis de tareas fuera de estimación
 
 Distribución de carga de trabajo
 
-📊 Valor agregado
-
-Este proyecto demuestra mi capacidad para:
-
-Diseñar dashboards ejecutivos e interactivos
-
-Modelar datos correctamente
-
-Crear métricas estratégicas en DAX
-
-Convertir datos operativos en insights accionables
-
-Aplicar análisis a entornos Agile y equipos tecnológicos
