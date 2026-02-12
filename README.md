@@ -2,7 +2,6 @@
 
 ![Agile Sprint Performance Dashboard](productivity.PNG)
 
-
 ## **📌 Descripción del proyecto**
 
 Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI enfocado en el análisis del desempeño de un equipo de desarrollo bajo metodología Agile (Scrum).
