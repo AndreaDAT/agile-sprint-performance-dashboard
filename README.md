@@ -1,6 +1,7 @@
 # **Agile Sprint Performance & Technical Debt Dashboard**
 
-![Agile Sprint Dashboard](productivity.png)
+![Agile Sprint Performance Dashboard](productivity.PNG)
+
 
 ## **📌 Descripción del proyecto**
 
