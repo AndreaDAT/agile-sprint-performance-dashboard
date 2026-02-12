@@ -1,4 +1,7 @@
 # **Agile Sprint Performance & Technical Debt Dashboard**
+
+![Agile Sprint Dashboard](productivity.png)
+
 ## **📌 Descripción del proyecto**
 
 Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI enfocado en el análisis del desempeño de un equipo de desarrollo bajo metodología Agile (Scrum).
@@ -24,23 +27,16 @@ Disminución progresiva de la eficiencia del equipo
 Este dashboard permite:
 
 ✔ Analizar la velocidad de entrega por sprint
+
 ✔ Identificar acumulación de deuda técnica
+
 ✔ Comparar horas estimadas vs horas reales
+
 ✔ Evaluar desempeño por miembro del equipo
+
 ✔ Detectar tareas que superan el presupuesto de tiempo
+
 ✔ Apoyar la toma de decisiones basada en datos
-
-🛠 Herramientas utilizadas
-
-Power BI
-
-DAX para creación de medidas analíticas
-
-Modelado de datos
-
-Transformaciones en Power Query
-
-Diseño de visualizaciones ejecutivas
 
 📈 Métricas desarrolladas
 
